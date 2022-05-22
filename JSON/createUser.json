@@ -1,0 +1,17 @@
+{
+  "create": 1,
+  "user": {
+    "firstName": "Muhammet Enes",
+    "lastName": "Bilici",
+    "username": "goldenlyras",
+    "email": "golden@gmail.com",
+    "password": "123enes123",
+    "birthday": "2005-04-08",
+    "question": {
+      "number": 0,
+      "answer": "This is my answer.."
+    },
+    "userType": 1,
+    "verified": 1
+  }
+}

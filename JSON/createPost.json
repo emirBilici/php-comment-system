@@ -1,0 +1,12 @@
+{
+  "create": 1,
+  "post": {
+    "title": "This is an post title",
+    "content": "Post content..",
+    "img": {
+      "main": "https://4kwallpapers.com/images/wallpapers/windows-11-stock-official-colorful-3840x2400-5658.jpg"
+    },
+    "authorID": 6,
+    "categoryID": 8
+  }
+}
